@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.weather{
+    text-align: center;
+    padding: 150px;
+}
+
+h1{
+    font: 50px tahoma;
+    text-transform: capitalize;
+}
+#searchBox{
+    padding: 10px;
+    width: 20%;
+    font-size: 15px;
+}
+button{
+    padding: 10px;
+    font-size: 15px;
+}
+h3{
+    font:30px tahoma;
+}
+#weatherforcast>p{
+    font: 20px sans-serif;
+}
+#weatherIcon{
+    /* position: absolute; */
+    width: 200px;
+    
+}
+#weatherIcon.iconImg{
+    
+}
